@@ -14,3 +14,5 @@ Sources:
 ![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_points.png)
 
 2)Identify and optimize urban core for admin 2 capitals.
+
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_2_capital_points.png)
