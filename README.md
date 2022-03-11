@@ -10,6 +10,4 @@ Sources:
   
   PMGSY Rural Connectivity Dataset (PRCD)
 
-
-Sanity checklist here: https://en.wikipedia.org/wiki/Administrative_divisions_of_India#States_and_union_territories 
-![](xhttps://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_map.png)
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_map.png)
