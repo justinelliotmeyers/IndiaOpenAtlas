@@ -10,4 +10,4 @@ Sources:
   
   PMGSY Rural Connectivity Dataset (PRCD)
 
-![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_map.png)
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_points.png)
