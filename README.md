@@ -12,4 +12,4 @@ Sources:
 
 
 Sanity checklist here: https://en.wikipedia.org/wiki/Administrative_divisions_of_India#States_and_union_territories 
-![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_map.png)
+![](xhttps://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/admin_1_capital_map.png)
