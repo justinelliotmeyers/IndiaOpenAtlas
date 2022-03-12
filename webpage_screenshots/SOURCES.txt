@@ -15,3 +15,7 @@ Admin 2 Capitals 12 AR - https://en.wikipedia.org/wiki/List_of_districts_of_Arun
 Admin 2 Capitals 18 AS - https://en.wikipedia.org/wiki/List_of_districts_of_Assam
 
 Admin 2 Capitals 10 BR - https://en.wikipedia.org/wiki/List_of_districts_of_Bihar
+
+Admin 2 Capitals 22 CT - https://en.wikipedia.org/wiki/List_of_districts_of_Chhattisgarh
+
+
