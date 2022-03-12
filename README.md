@@ -27,4 +27,6 @@ Daily Recaps:
 
 2 - Finished admin 1 capitals and verified missing one (Bhararisain, Uttarakhand). Started district capitals/ headquarter mapping. 
 
+3 - District mapping: 	ANDAMAN AND NICOBAR ISLANDS, ANDHRA PRADESH, ARUNACHAL PRADESH, ASSAM, BIHAR. https://lgdirectory.gov.in/ ARUNACHAL PRADESH has 25 districts. https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh ARUNACHAL PRADESH has 26 disticts.
+
 
