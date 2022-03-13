@@ -30,3 +30,14 @@ Daily Recaps:
 3 - District mapping: 	ANDAMAN AND NICOBAR ISLANDS, ANDHRA PRADESH, ARUNACHAL PRADESH, ASSAM, BIHAR. https://lgdirectory.gov.in/ ARUNACHAL PRADESH has 25 districts. https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh ARUNACHAL PRADESH has 26 disticts.
 
 
+
+FUTURE RELEASE PLANS!
+
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/planned_v3_release.png)
+
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/planned_v4_release.png)
+
+![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/planned_v5_release.png)
+
+
+
