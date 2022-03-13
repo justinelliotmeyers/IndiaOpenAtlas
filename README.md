@@ -31,6 +31,10 @@ Daily Recaps:
 
 4 - Pivot day. Clean folder structure; deleted geojson folder. Will focus on building out one full admin to see if this project is possible. Randomly picked ARUNACHAL PRADESH. Cleaned all district capitals. Kra Daadi district (https://en.wikipedia.org/wiki/Kra_Daadi_district ) wiki states Palin is capital (https://en.wikipedia.org/wiki/Palin,_Arunachal_Pradesh ). http://www.arunachalipr.gov.in/wp-content/uploads/2019/01/IPR_2019.pdf has Jamin flagged. Emails sent to https://censusindia.gov.in/ to find out if codes/ populations can be used and to document clear terms.
 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 FUTURE RELEASE PLANS!
 
 ![](https://github.com/justinelliotmeyers/IndiaOpenAtlas/blob/main/jpeg_map_references/planned_v3_release.png)
