@@ -29,7 +29,8 @@ Daily Recaps:
 
 3 - District mapping: 	ANDAMAN AND NICOBAR ISLANDS, ANDHRA PRADESH, ARUNACHAL PRADESH, ASSAM, BIHAR. https://lgdirectory.gov.in/ ARUNACHAL PRADESH has 25 districts. https://en.wikipedia.org/wiki/List_of_districts_of_Arunachal_Pradesh ARUNACHAL PRADESH has 26 disticts.
 
-4 - Pivot day. Clean folder structure; deleted geojson folder. Will focus on building out one full admin to see if this project is possible. Randomly picked ARUNACHAL PRADESH. Cleaned all district capitals. Kra Daadi district (https://en.wikipedia.org/wiki/Kra_Daadi_district ) wiki states Palin is capital (https://en.wikipedia.org/wiki/Palin,_Arunachal_Pradesh ). http://www.arunachalipr.gov.in/wp-content/uploads/2019/01/IPR_2019.pdf has Jamin flagged. Emails sent to https://censusindia.gov.in/ to find out if codes/ populations can be used and to document clear terms.
+4 - Pivot day. Clean folder structure; deleted geojson folder. Will focus on building out one full admin to see if this project is possible. Randomly picked ARUNACHAL PRADESH. Cleaned all district capitals. Kra Daadi district (https://en.wikipedia.org/wiki/Kra_Daadi_district ) wiki states Palin is capital (https://en.wikipedia.org/wiki/Palin,_Arunachal_Pradesh ). http://www.arunachalipr.gov.in/wp-content/uploads/2019/01/IPR_2019.pdf has Jamin flagged. Emails sent to https://censusindia.gov.in/ to find out if codes/ populations can be used and to document clear terms. ddu.rgi@nic.in rgi.rgi@nic.in websupport.rgi@nic.in
+
 
 
 
