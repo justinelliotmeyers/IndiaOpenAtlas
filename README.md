@@ -1,5 +1,5 @@
 # IndiaOpenAtlas
-Open source atlas of all things India. Clear license. Clear metadata. Free.
+Open source atlas of locations in India. Clear license. Clear metadata. Free.
 
 Project Goals:
 
